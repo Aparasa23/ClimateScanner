@@ -2,3 +2,10 @@ body {
 	colour: 555d68;
 	font-size: 14px;
 }
+input {
+	border:1px solid blue;
+}
+
+.strong {
+	font-weight: bold;
+}
